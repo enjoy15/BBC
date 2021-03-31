@@ -1,0 +1,56 @@
+* { 
+    margin: 0;
+    padding: 0;    
+    box-sizing: border-box;
+}
+html{
+    height:100%
+}
+body{background-image:url('https://quicksnooker.com/images/sturgeonBack.jpg');    
+	background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial;
+}
+.wholebanner{
+    position:absolute;
+    bottom:5%;
+    width: 100%;
+
+}
+.Top{
+    background-color: red;
+    color:white;  
+    width:40%;
+    padding-left: 10%;
+
+}
+.Bottombanner{
+
+    color:white;
+    padding-left: 10%;
+    overflow: hidden;
+}
+.BBC{
+    background-color:white;
+    color:red;
+    display: inline-block; 
+
+}
+.Location{
+    background-color:red;
+    padding-left: 15%;  
+    display: inline-block;    
+}
+.Date{
+    background-color: black;
+    display: inline-block;    
+}
+.Place{
+    background-color: maroon;
+    display: inline-block;    
+}
+
+.Middle{
+    background-color:rgb(219, 210, 210);
+    padding-left: 10%;
+}
